@@ -1,0 +1,4 @@
+Tweet.HashTag.View = function() {
+
+
+}

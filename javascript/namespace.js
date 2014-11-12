@@ -1,0 +1,4 @@
+var Tweet = {
+  HashTag : {}
+}
+
